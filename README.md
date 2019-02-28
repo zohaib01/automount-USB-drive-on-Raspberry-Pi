@@ -1,4 +1,5 @@
 # automount-USB-drive-on-Raspberry-Pi
+This guide will help you to automount USB drives to a specified path in linux filesystem
 
 ## Step 01:
 Install [latest Raspbian](https://www.raspberrypi.org/downloads/) Stretch on RPI
